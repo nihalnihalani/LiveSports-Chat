@@ -35,13 +35,15 @@ Sports Chat bridges the gap between live sports events and fan engagement by pro
   - Message threading and replies
   - Polls and predictions
  
-  ![Sports Chat - Real-time Match Discussion Platform - visual selection (1)](https://github.com/user-attachments/assets/5c33b90f-529f-45d5-9ad5-e84a9fc694d8)
 
 - **Match Timeline**
   - Key event markers
   - Video highlight integration
   - Statistical milestones
   - Crowd reaction tracking
+ 
+ ![Sports Chat - Real-time Match Discussion Platform - visual selection (1)](https://github.com/user-attachments/assets/5c33b90f-529f-45d5-9ad5-e84a9fc694d8)
+
 
 ### Fan Engagement Features
 - **Team Support**
