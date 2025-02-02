@@ -1,6 +1,10 @@
-# Sports Chat - Real-time Match Discussion Platform
+# LiveSports Chat
+ 
 
-![Project Banner](./docs/images/banner.png)
+
+
+
+<img width="727" alt="Screenshot 2025-02-02 at 1 43 21 PM" src="https://github.com/user-attachments/assets/111c2696-f799-4004-b4d1-c85c9ea5eed5" />
 
 A professional, scalable real-time chat platform built for sports enthusiasts to engage in live match discussions, track scores, and connect with fellow fans.
 
@@ -12,6 +16,8 @@ Sports Chat bridges the gap between live sports events and fan engagement by pro
 - Team-specific chat rooms
 - Professional moderation tools
 - Cross-platform accessibility
+
+ ![Sports Chat - Real-time Match Discussion Platform - visual selection](https://github.com/user-attachments/assets/15014bb8-b223-443e-b243-bf615b104097)
 
 ## Core Features & Capabilities
 
@@ -28,6 +34,8 @@ Sports Chat bridges the gap between live sports events and fan engagement by pro
   - Emoji reactions and GIF support
   - Message threading and replies
   - Polls and predictions
+ 
+  ![Sports Chat - Real-time Match Discussion Platform - visual selection (1)](https://github.com/user-attachments/assets/5c33b90f-529f-45d5-9ad5-e84a9fc694d8)
 
 - **Match Timeline**
   - Key event markers
@@ -41,7 +49,7 @@ Sports Chat bridges the gap between live sports events and fan engagement by pro
   - Team-colored chat interfaces
   - Fan reputation system
   - Supporter badges and achievements
-
+ 
 - **Community Features**
   - Match predictions
   - Fan polls
@@ -53,6 +61,10 @@ Sports Chat bridges the gap between live sports events and fan engagement by pro
   - Highlight clips
   - Stats screenshots
   - Custom emojis and stickers
+ 
+  
+  ![Sports Chat - Real-time Match Discussion Platform - visual selection (2)](https://github.com/user-attachments/assets/6eb37e3c-0f68-47f7-9235-ca990ff36ad0)
+
 
 ### Professional Tools
 - **Moderation Suite**
@@ -275,5 +287,8 @@ func rateLimiter(limit rate.Limit, burst int) func(http.Handler) http.Handler {
    - Real-time analytics
    - Enhanced caching strategies
    - Mobile app development
+  
+  ![Sports Chat - Real-time Match Discussion Platform - visual selection (3)](https://github.com/user-attachments/assets/be6b01a1-329e-40c3-867b-71e0bcbf5bfe)
 
-Let me know if you'd like me to expand on any of these areas or add additional sections!
+
+
